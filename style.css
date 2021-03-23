@@ -9,6 +9,7 @@
 }
 .header{
     background-color: black;
+    margin-bottom: 40px;
 }
 .item{
     justify-content: space-evenly;
