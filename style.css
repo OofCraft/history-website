@@ -46,7 +46,7 @@ a:visited{
 }
 .text-title{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     flex-wrap: wrap;
     font-style:oblique;
     font-size: 22px;
