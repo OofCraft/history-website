@@ -44,4 +44,23 @@ a:visited{
     justify-content: flex-start;
     flex-wrap: wrap;
 }
-
+.text-title{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-style:oblique;
+    font-size: 22px;
+}
+.object{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.speech{
+    display: flex;
+    justify-content: center;
+}
+.ttexts,p{
+    display: flex;
+    justify-content: center;
+}
